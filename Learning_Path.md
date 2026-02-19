@@ -9,12 +9,12 @@
 ## 🚀 Phase 1: 环境搭建 & Hello World (1-2 周)
 > **目标：** 只要能把 Python 打开，跑通第一行代码
 
-### 1.1 安装：Anaconda
+### 1.1 安装：Anaconda Navigator ✅
 
 * **下载：** 去 [Anaconda 官网](https://www.anaconda.com/) 下载个人版。
 * **为什么：** （常用的库：Pandas, NumPy, Matplotlib）
 
-### 1.2 工作台：Jupyter Notebook
+### 1.2 工作台：Jupyter Notebook/ VS Studio ✅
 安装完 Anaconda 后，找到 **Jupyter Notebook** (或者 **JupyterLab**) 图标，点击打开。
 * **它是什么：** 它不是黑乎乎的命令行，它像一本**交互式的笔记本**。
 * **怎么用：** 在网页里写代码，按 `Shift + Enter`，结果直接在下面显示。可以写笔记、贴图片、画公式，非常适合我们这种“视觉系”动物。
