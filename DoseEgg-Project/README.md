@@ -240,7 +240,7 @@ research dataset potential
 
 👉 (optional – add your image here)
 
-![deeb0ba673b15098c9f58ddf1e62133a](https://github.com/user-attachments/assets/c8f6ce63-c96a-4b60-975e-227a3db6581b)
+![aba0e2ea9864b4aaf6c3702fe7412e36](https://github.com/user-attachments/assets/efc95359-5017-4149-b6f4-c00c3ed88912)
 
 🧭 Roadmap
 [ ] Define data model
