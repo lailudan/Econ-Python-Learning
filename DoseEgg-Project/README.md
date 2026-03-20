@@ -67,11 +67,17 @@ meals
 activity
 
 06:00 ER 200 mg
+
 09:30 IR 100 mg
+
 12:00 IR 100 mg
+
 14:30 symptom: chest tightness
+
 17:30 IR 50 mg (rescue)
+
 21:00 ER 100 mg
+
 2️⃣ Quick Logging (Low Friction)
 
 Minimal input, fast logging:
