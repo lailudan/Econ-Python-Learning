@@ -240,7 +240,8 @@ research dataset potential
 
 👉 (optional – add your image here)
 
-![Sketch](./docs/sketch.jpg)
+![deeb0ba673b15098c9f58ddf1e62133a](https://github.com/user-attachments/assets/c8f6ce63-c96a-4b60-975e-227a3db6581b)
+
 🧭 Roadmap
 [ ] Define data model
 [ ] Build timeline UI
