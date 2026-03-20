@@ -1,4 +1,4 @@
-🧠 DoseEgg – Medication & Symptom Intelligence App
+### 🧠 DoseEgg – Medication & Symptom Intelligence App
 
 Not a pill tracker.
 A medication + context intelligence system.
