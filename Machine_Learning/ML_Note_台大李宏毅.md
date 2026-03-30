@@ -41,6 +41,9 @@
 | **分类 (Classification)** | 做选择题 (Binary 或 Multi-class) | 垃圾邮件拦截、新闻自动分类、疾病诊断 |
 | **结构化学习 (Structured)** | 输出复杂物件（序列、图等） | 语音识别、机器翻译、人脸关键点标注 |
 
+<img width="1568" height="1116" alt="68da6e80-4ddb-4c08-a52c-33fe844e81cf" src="https://github.com/user-attachments/assets/1537e578-4482-4a88-91f7-d1d43b7469e4" />
+
+
 ---
 
 ## 4. 不同的学习场景 (Learning Scenarios) [00:36:12]
