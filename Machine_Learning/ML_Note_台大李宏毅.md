@@ -58,7 +58,8 @@
 * **无监督学习 (Unsupervised)**：机器“无师自通”。如词向量表示、AI 绘画生成 [00:26:45]。
 * **强化学习 (Reinforcement Learning)**：Learning from critics。没有正确答案，只有环境给出的“奖励/惩罚”（如 AlphaGo 自我对弈）[00:31:39]。
 
----
+<img width="1564" height="1136" alt="e119f494e295d17cdd5bc668d118311a" src="https://github.com/user-attachments/assets/9c20a3b7-3287-4975-ad1b-24bdc9ee163d" />
+
 
 ## 5. 核心洞察
 
