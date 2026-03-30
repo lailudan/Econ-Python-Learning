@@ -12,7 +12,7 @@
 * **深度学习 (DL)**：机器学习中的一种**方法**（通常指多层神经网络）,帮它寻找一个function.[00:09:52]
 <img width="1594" height="1172" alt="217d52131da9eb65f73a7fa90e4bb5fc" src="https://github.com/user-attachments/assets/caf0b06b-14da-40f6-b97c-3c2820f18643" />
 <img width="1574" height="1174" alt="b3c0e469-956c-498f-9603-7032cb2874a4" src="https://github.com/user-attachments/assets/ec5a374f-e1e5-40d0-83ea-53c17b00cf5e" />
-再判定好坏
+再判定function好坏 - 找出f*是好的function的过程就是 Training！
 <img width="1548" height="1154" alt="1d897276-6e42-4f74-a6fb-acd6876a7836" src="https://github.com/user-attachments/assets/2f40f43e-0bc3-4096-86b1-0028b85edaff" />
 
 ---
