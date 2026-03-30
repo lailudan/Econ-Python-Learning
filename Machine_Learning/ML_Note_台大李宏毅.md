@@ -13,8 +13,13 @@
 <img width="1594" height="1172" alt="217d52131da9eb65f73a7fa90e4bb5fc" src="https://github.com/user-attachments/assets/caf0b06b-14da-40f6-b97c-3c2820f18643" />
 <img width="1574" height="1174" alt="b3c0e469-956c-498f-9603-7032cb2874a4" src="https://github.com/user-attachments/assets/ec5a374f-e1e5-40d0-83ea-53c17b00cf5e" />
 
-## 再判定function好坏 - 找出f*是好的function的过程就是 Training！
+## 再判定function好坏 - 找出f*是好的function的过程就是 Training&Testing
 <img width="1548" height="1154" alt="1d897276-6e42-4f74-a6fb-acd6876a7836" src="https://github.com/user-attachments/assets/2f40f43e-0bc3-4096-86b1-0028b85edaff" />
+
+
+
+
+
 
 ---
 
@@ -25,6 +30,7 @@
 2.  **定义评价准则 (Loss)**：通过训练数据判断一个 Function 是“好”还是“不好” [00:13:00]。
 3.  **寻找最优函数 (Optimization)**：使用高效算法（如梯度下降）从万千 Function 中挑出表现最好的那一个 [00:14:09]。
 
+<img width="1606" height="1180" alt="39cbb24f-81d1-448f-9d34-1c6344d8889b" src="https://github.com/user-attachments/assets/6b53b1d6-bb86-4323-a4e1-ce3182ed2ed7" />
 ---
 
 ## 3. 核心任务分类 (Tasks)
