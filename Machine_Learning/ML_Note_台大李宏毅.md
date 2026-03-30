@@ -10,6 +10,7 @@
 * **人工智能 (AI)**：人类的长远目标，希望机器像人一样聪明。
 * **机器学习 (ML)**：实现 AI 的一种**手段**。让机器具备学习能力，而不是通过硬编码（Hard-coded/crafted Rules）[00:03:49]。
 * **深度学习 (DL)**：机器学习中的一种**方法**（通常指多层神经网络）,帮它寻找一个function.[00:09:52]
+<img width="1594" height="1172" alt="217d52131da9eb65f73a7fa90e4bb5fc" src="https://github.com/user-attachments/assets/caf0b06b-14da-40f6-b97c-3c2820f18643" />
 
 ---
 
