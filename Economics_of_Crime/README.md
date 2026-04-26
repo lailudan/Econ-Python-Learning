@@ -1,4 +1,4 @@
-# 🕸️ Learning Path: From HEOR to Computational Criminology
+# 🕸️ Learning Path: From HEOR to Computational Criminology - The Hunter's Instinct
 > **"Finding the Hidden: Bridging Patient Finding and Human Trafficking Recovery via Graph Theory & Economics"**
 
 ---
@@ -21,7 +21,7 @@
 * **核心工具：** 决策树 (Decision Tree)、马尔可夫模型 (Markov Models)。
 * **关键概念：** 患病率估算、QALYs 损失量化（用于评估人口贩卖受害者的长期创伤成本）。
 
-### 3. 图论入门 (Graph Theory - 你正在读的)
+### 3. 图论入门 (Graph Theory - 正在读)
 * **学习重点：** 继续研读手头两本书，重点关注 **连通性 (Connectivity)**、**中心性 (Centrality)** 以及 **子图识别 (Motif Analysis)**。
 
 ---
