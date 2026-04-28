@@ -47,6 +47,11 @@
 * 🛡️ **DHS-HSI Blue Campaign:** 站在反人口贩运的最前沿，执行“打捞”任务。
 * 🌐 **UNODC / Europol:** 在国际坐标系中，利用大数据进行跨国清算。
 * 🏥 **WHO (World Health Organization):** 从社会流行病学视角，根治犯罪的“并发症”。
+* 🕵️ **FBI - Cyber Division & ViCAP:** 利用“全美暴力犯罪关联系统”打破数据孤岛，将数字罪证与现实暴力进行强力重组。
+* 💰 **FinCEN (Financial Crimes Enforcement Network):** 监控全球资金的“炼金流动”，通过链路分析剥离洗钱伪装，切断罪恶的经济命脉。
+* 👶 **NCMEC (National Center for Missing & Exploited Children):** 专注于打捞最脆弱的“生命节点”，在数亿张影像中识别受害者，为迷失的孩子开启回归之门。
+* 🗾 **Japan NPA - Cyber Police Bureau (警察庁サイバー警察局):** 维护东方法治的“数字守望者”，针对跨国网络犯罪实施高精度打击，守卫东方的纯净。
+* 🛡️ **JC3 (Japan Cybercrime Control Center):** 日本产学警协作的“智库阵图”，通过公私联动预警新型威胁，将“虫子”扼杀在产卵期。
 
 ---
 
