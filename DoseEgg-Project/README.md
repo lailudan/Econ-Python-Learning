@@ -194,16 +194,6 @@ stable functional range: 650–700 mg/day
 
 👉 Highlights the need for multi-variable tracking, not simple logs.
 
-🆚 Differentiation
-Feature	Existing Apps	DoseEgg
-Pill reminder	✅	❌ (not core)
-Medication log	✅	✅
-Symptom tracking	⚠️ basic	✅ structured
-Food interaction	❌	✅
-Cognitive load tracking	❌	✅
-Auto summary	❌	✅
-Doctor export	❌	✅
-
 
 🚧 MVP Scope
 Build first:
