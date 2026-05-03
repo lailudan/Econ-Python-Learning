@@ -1,3 +1,5 @@
+### "Fragile, yet whole. The future is still unfolding."
+
 ### 🧠 DoseEgg – Medication & Symptom Intelligence App
 
 Not a pill tracker.
