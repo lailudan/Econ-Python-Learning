@@ -203,6 +203,8 @@ Food interaction	❌	✅
 Cognitive load tracking	❌	✅
 Auto summary	❌	✅
 Doctor export	❌	✅
+
+
 🚧 MVP Scope
 Build first:
 
